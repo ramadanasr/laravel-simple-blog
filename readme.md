@@ -15,6 +15,12 @@ git clone https://github.com/abolkog/laravel-simple-blog
 composer install
 ```
 
+* Generate Key
+
+```
+php artisan key:generate 
+```
+
 * Create the database and edit .env file
 * Run the migrations
 
